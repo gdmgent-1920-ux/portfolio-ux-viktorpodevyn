@@ -1,0 +1,7 @@
+# ignore generated files
+.DS_Store
+Desktop.ini
+.Spotlight-V100
+.Trashes
+._*
+Thumbs.db
