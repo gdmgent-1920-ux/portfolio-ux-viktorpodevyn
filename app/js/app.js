@@ -17,10 +17,12 @@ App = {
    // create the users name
    const name = `${data.general.firstName} ${data.general.lastName}`;
    const group = `${data.general.class}`;
+   const studentNumber = `${data.general.studentnumber}`;
 
    // set the title of the document
    AppView.setDocumentTitle(`${name} | ${group} | Artevelde University College Ghent`);
    document.querySelector('.heading-name').innerHTML = `${name}, ${group}`;
+   document.querySelector('.student-number').innerHTML = `${studentNumber}`;
 
    // create the buttons for each assignment and add them to the DOM
    assignmentNumbers.forEach((number) => {

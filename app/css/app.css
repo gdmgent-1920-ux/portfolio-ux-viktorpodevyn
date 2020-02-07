@@ -299,7 +299,8 @@ main {
 }
 
 .hero-text h1,
-.hero-text .heading-name {
+.hero-text .heading-name,
+.hero-text .student-number {
     font-size: 28px;
     letter-spacing: -1.8px;
     font-family: var(--title-text-font);
@@ -313,8 +314,13 @@ main {
 
 .hero-text .heading-name {
     font-size: 40px;
-    margin-bottom: 0;
+    margin-bottom: 30px;
     font-weight: 700;
+}
+
+.hero-text .student-number {
+    font-size: 18px;
+    letter-spacing: 1px;
 }
 
 @media (min-width: 768px) {
