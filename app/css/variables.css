@@ -1,0 +1,14 @@
+:root {
+    --primary-text-font: 'Montserrat', sans-serif;
+    --title-text-font: 'Playfair Display', serif;
+    --primary-text-color: #141414;
+    --card-title-text-color: #1b2025;
+    --card-description-color: #8c93bd;
+    --nav-background-color: #aaa;
+    --nav-link-text-color: #000;
+    --work-gradient-assignment1: linear-gradient(150deg,#c99fff -20%,#4a4eff);
+    --work-gradient-assignment2: linear-gradient(225deg,#0abac2,#b2de94);
+    --work-gradient-assignment3: linear-gradient(to top, #6be585, #dd3e54);
+    --work-gradient-assignment4: linear-gradient(to top, #fdbb2d, #22c1c3);
+    --work-gradient-assignment5: linear-gradient(to top, #2C5364, #203A43, #0F2027);
+}
