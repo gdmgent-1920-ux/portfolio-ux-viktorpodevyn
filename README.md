@@ -1,4 +1,4 @@
-# UI/UX Design portfolio template 1920
+# UX portfolio template 1920
 
 ## Name:
 
