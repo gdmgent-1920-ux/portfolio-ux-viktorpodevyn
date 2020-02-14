@@ -1,4 +1,4 @@
-# UX portfolio template 1920
+# UI/UX Design portfolio template 1920
 
 ## Name:
 
@@ -15,3 +15,5 @@ When you open the portfolio (by opening index.html) you should see you're person
 In the folder `assignments` you can update the necessary files, according to each assignment's requirements.
 
 If you need to change a URL for one of the assignments, you can update them in the `data.js` file.
+
+**Need more help?** You can find full tutorials on YouTube[https://www.youtube.com/playlist?list=PLEANi5V6VM1eta6CQlMSUOP5849hQwU2I]!
