@@ -16,4 +16,4 @@ In the folder `assignments` you can update the necessary files, according to eac
 
 If you need to change a URL for one of the assignments, you can update them in the `data.js` file.
 
-**Need more help?** You can find full tutorials on YouTube[https://www.youtube.com/playlist?list=PLEANi5V6VM1eta6CQlMSUOP5849hQwU2I]!
+**Need more help?** You can find full tutorials on [YouTube](https://www.youtube.com/playlist?list=PLEANi5V6VM1eta6CQlMSUOP5849hQwU2I)!
