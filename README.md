@@ -1,8 +1,8 @@
 # UX portfolio template 1920
 
-## Name:
+## Name: Viktor Podevyn
 
-## Group:
+## Group: 1AVD
 
 ## Getting Started
 
